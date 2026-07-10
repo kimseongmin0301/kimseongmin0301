@@ -1,171 +1,98 @@
 <div align="center">
 
-# 👋 김성민 (Seongmin)
+# 김성민 | Seongmin Kim
 
-### Backend Developer | ML Engineer
+### Backend Developer · AI/ML Engineer
 
-금융 데이터를 활용한 AI 서비스와 백엔드 시스템을 개발합니다.
+Java/Spring 기반 백엔드 개발을 시작으로  
+Python 기반 머신러닝과 생성형 AI 서비스 개발까지 경험하고 있습니다.
+
+금융 데이터와 AI 모델을 실제 서비스로 연결하는 개발에 관심이 있습니다.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-kimseongmin.co.kr-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.kimseongmin.co.kr)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pose1358@naver.com)
 
 </div>
 
 ---
 
-# 💼 경력
+## About Me
 
-## (주)이머니 | 2023.04 ~ 현재
+- Java/Spring 기반 백엔드 서비스 개발 및 운영
+- Python 기반 머신러닝 모델과 데이터 파이프라인 개발
+- 금융 시계열 데이터 기반 모델 학습·검증 및 백테스트
+- OpenAI API 기반 생성형 AI 서비스 개발
+- Redis 기반 실시간 데이터 처리 및 서비스 연동
+- 배치 처리, REST API, CI/CD 및 운영 자동화 경험
 
-### ML 개발자 | IT서비스팀
-**2025.10 ~ 현재**
-
-- AI 서비스 개발 및 운영
-- 머신러닝 모델 개발
-- LLM 기반 서비스 개발
-
-### ML 개발자 | AI TF팀
-**2025.06 ~ 2025.10**
-
-- 금융 시계열 예측 모델 개발
-- 데이터 전처리 및 Feature Engineering
-- AI 모델 학습 및 검증
-
-### 백엔드 개발자 | IT서비스팀
-**2023.04 ~ 2025.06**
-
-- Java/Spring 기반 백엔드 개발
-- REST API 개발 및 유지보수
-- 사내 서비스 운영
+모델의 성능뿐 아니라 데이터 품질, 검증 구조,  
+서비스 안정성과 운영 효율을 함께 고려하는 개발을 지향합니다.
 
 ---
 
-# 🎓 학력
+## Career
 
-## 학점은행제
+### ㈜이머니
 
-컴퓨터공학
+**Backend Developer → AI/ML Engineer**  
+2023.04 ~ 현재
 
-2024.02 ~ 2024.08
-
-## 울산과학대학교
-
-컴퓨터정보학부 IoT기술전공
-
-2016.03 ~ 2022.02
+- Java/Spring 기반 금융 서비스 개발
+- Python 기반 머신러닝 및 생성형 AI 서비스 개발
+- 금융 데이터 처리, 모델 검증 및 서비스 운영
 
 ---
 
-# 🛠 기술 스택
+## Tech Stack
 
 ### Backend
 
 <p>
-<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=springboot&logoColor=white"/>
-<img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat"/>
-<img src="https://img.shields.io/badge/JPA-59666C?style=flat"/>
-<img src="https://img.shields.io/badge/MyBatis-000000?style=flat"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 </p>
 
 ### AI / ML
 
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenAI API-412991?style=flat&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/SHAP-F7931E?style=flat"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Time_Series-4B8BBE?style=flat-square"/>
 </p>
 
-### Database
+### Data / Infrastructure
 
 <p>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
-</p>
-
-### DevOps
-
-<p>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
 </p>
 
 ---
 
-# 🚀 주요 프로젝트
+## Education & Certification
 
-## 📈 AI Signal Pro
-
-### 🇰🇷 한국 주식 AI 서비스
-
-#### AI 매매시그널
-
-- 금융 시계열 데이터 기반 주가 예측 모델 개발
-- Feature Engineering 및 데이터 전처리
-- 머신러닝 모델 학습 및 백테스트
-- 투자자별 매매동향 데이터 기반 모델 개발
-
-**Tech**
-
-`Python` `TensorFlow` `Keras` `MySQL` `Redis`
+- 컴퓨터공학 학사
+- 울산과학대학교 컴퓨터정보학부 IoT기술전공
+- 정보처리산업기사
 
 ---
 
-#### AI 종목분석
+## Interests
 
-- OpenAI API 기반 종목 분석 리포트 생성
-- 차트 및 기술적 지표 분석
-- AI 투자 의견 자동 생성
-
-**Tech**
-
-`Python` `FastAPI` `OpenAI API`
-
----
-
-### 🇺🇸 미국 주식 AI 서비스
-
-#### AI 매매시그널
-
-- 미국 주식 데이터 기반 예측 모델 개발
-- AI 매매 전략 생성
-- 시계열 모델 운영
-
-**Tech**
-
-`Python` `Keras`
-
----
-
-#### AI 종목분석
-
-- OpenAI API 기반 미국 주식 종목 분석
-- 차트 이미지 분석
-- AI 리포트 생성
-- FastAPI 기반 추론 API 개발
-
-**Tech**
-
-`Python` `FastAPI` `OpenAI API`
-
----
-
-# 📚 관심 분야
-
-- Backend Development
-- Machine Learning
-- Financial AI
-- Time Series Forecasting
-- LLM Application
-- AI Service Architecture
+`Financial AI` `Quantitative Modeling` `Time Series`  
+`Generative AI` `Backend Architecture` `AI Service Engineering`
 
 ---
 
 <div align="center">
 
-### 감사합니다. 👋
+### 금융 데이터와 AI를 실제 서비스로 구현하는 개발자
 
 </div>
