@@ -11,7 +11,7 @@ Python 기반 머신러닝과 생성형 AI 서비스 개발까지 경험하고 �
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-kimseongmin.co.kr-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.kimseongmin.co.kr)
+[![Portfolio](https://img.shields.io/badge/Portfolio-kimseongmin.co.kr-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.kimseongmin.co.kr/portfolio)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pose1358@naver.com)
 
 </div>
